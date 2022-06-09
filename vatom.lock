@@ -1,0 +1,14 @@
+{
+  "id": "jjv360.poke",
+  "name": "Poke",
+  "version": "1.0.0",
+  "beta": false,
+  "description": "Send a poke to someone.",
+  "longDescription": "This plugin adds a button to the people menu to send a poke to that person.",
+  "configuration": "None",
+  "category": "Social & Communication",
+  "businessId": "cDFoSSRVe4",
+  "price": 0,
+  "releaseNotes": "None",
+  "entrypoint": "https://plugins.vatom.com/cDFoSSRVe4/378db684e8e81a253e16c6dd915bd5ed/plugin.js"
+}
