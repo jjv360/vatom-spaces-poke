@@ -1,4 +1,4 @@
-# VATOM_TEMPLATE_PLUGIN_NAME 🔌
+# Vatom Spaces: Poke 🔌
 
 This plugin is designed to be used from within [Vatom Spaces](https://vatom.com).
 
