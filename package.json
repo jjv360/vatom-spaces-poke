@@ -1,7 +1,8 @@
 {
   "name": "jjv360.poke",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Vatom Spaces.",
+  "private": true,
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
